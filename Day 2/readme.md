@@ -1,8 +1,8 @@
 # Performing List methods
 
-*** 1) Take List as an input from user
+***1) Take List as an input from user
 
-*** 2) Perform List Methods
+***2) Perform List Methods
 
   i) Append Method => To add an element at the end of previous element
       :- List_name.append(value)
@@ -19,7 +19,7 @@
    v) Clear Method => To Delete the whole List
       :- List_name.clear()
    
-*** 3) To Retrieve data we directly use index value
+***3) To Retrieve data we directly use index value
    eg. 1  List_name[0]
           Return value present at 0th position
          
