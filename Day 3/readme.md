@@ -1,19 +1,19 @@
-#Topic :
+# Topic :
 	Print whether the inserted number is an armstrong number or not ?
 
-Language Used :
+## Language Used :
 	               Python Language
 
-Explanation :
+## Explanation :
 	 An Armstrong number of three digits is an integer such that the sum of the cubes of its    
 	digits is equal to the number itself.
 	
-	Test Case 1: num = 153 
-	       	         L = 3
-                     Num not equal to 0
-        Sum =  (1**1) + (5**3) + (3**3) 
-        If sum equals to num.
-Hence, 153 is an armstrong number.
+Test Case 1: num = 153 
+	 	     L = 3
+                Num not equal to 0
+        		 Sum =  (1**1) + (5**3) + (3**3) 
+        	If sum equals to num.
+	Hence, 153 is an armstrong number.
 		
 Test Case 2: num = 1634 
                       L = 4
