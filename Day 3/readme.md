@@ -1,4 +1,4 @@
-Topic :
+#Topic :
 	Print whether the inserted number is an armstrong number or not ?
 
 Language Used :
