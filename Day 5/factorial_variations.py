@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Performing Factorial problem using RECURSION
+
+def fact_recursive(num):
+    if num == 0 or num == 1:
+        return 1
+    return num * fact_recursive(num-1) # RECURSIVE function
+    
+    
+num = int(input("Enter a number: "))
+f = fact_recursive(num)
+print(f"Factorial of {num} is {f}")
