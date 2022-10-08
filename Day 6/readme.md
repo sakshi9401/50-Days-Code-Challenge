@@ -29,7 +29,7 @@ Their is a tie between you and computer
                       S
                       You choose S
                       Computer choose R
-You Loose
+				You Loose
 
 ### Test Case 3:
                    Let's play Rock , Paper and Scissor
@@ -44,4 +44,4 @@ You Loose
                       R
                       You choose R
                       Computer choose S
-You win!!!
+				You win!!!
