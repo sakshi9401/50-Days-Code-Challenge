@@ -39,8 +39,6 @@ your_choice = input()
 
 print(f"You choose {your_choice}")
 print(f"Computer choose {comp}")
-
-if your_choice.
     
 W = winner(comp,your_choice)    
 if W == None:
