@@ -14,7 +14,7 @@
                       P
                       You choose P
                       Computer choose P
-Their is a tie between you and computer
+				Their is a tie between you and computer
 
 ### Tes Case 2:
                    Let's play Rock , Paper and Scissor
