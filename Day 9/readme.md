@@ -3,7 +3,7 @@
 
 ### Input: Take input from user their name, id number, salary and post.
            Display their name and id number first and then all information.
-      ### Test Case:
+### Test Case:
         --> Enter your name Sakshi raikwar
         --> Enter your Id Number 100007
         --> Enter your Salary 50000
