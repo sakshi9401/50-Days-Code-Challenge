@@ -5,13 +5,14 @@
 
 ### Test Case1:
 Enter a string : Learn how to turn on these new features
-Learn how to turn on these new features
-Ascending order of given string is -
-features
-how
-learn
-new
-on
-these
-to
-turn
+-> Learn how to turn on these new features
+-> Ascending order of given string is -
+          features
+          how
+          learn
+          new
+          on
+          these
+          to
+          turn
+
