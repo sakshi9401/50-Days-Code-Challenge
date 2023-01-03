@@ -1,4 +1,5 @@
-# Question : Consider a list (list = []). You can perform the following commands:
+# Question : 
+             Consider a list (list = []). You can perform the following commands:
              insert i e: Insert integer e at position i.
              print: Print the list.
              remove e: Delete the first occurrence of integer e.
