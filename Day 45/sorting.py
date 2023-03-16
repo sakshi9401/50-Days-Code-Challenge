@@ -1,0 +1,10 @@
+n = int(input())
+list1 = list(map(int, input().split()))
+list2 = list(map(int, input().split()))
+list1.sort()
+list2.sort()
+list3 = list1 + list2
+list3.sort()
+print(list3)
+print(list1)
+print(list2)
